@@ -1,10 +1,10 @@
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2F4F4F&text=Souza&fontSize=40&fontAlignY=33&fontColor=FFFFFF"/></a>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00BFFF&text=Souza%20-%20fodendobrancas&fontSize=40&fontAlignY=33&fontColor=FFFFFF"/></a>
 
 ---
 
 <p align="center"><strong>Bem-vindo ao meu perfil do GitHub 👋</strong></p>
 
-<p align="center">Sou o <b>Souza</b>, desenvolvedor com experiência em <b>Java, JavaScript, Python, TypeScript, HTML e CSS</b>.  
+<p align="center">Eu sou <b>Souza - fodendobrancas</b>, desenvolvedor com experiência em <b>Java, JavaScript, Python, TypeScript, HTML e CSS</b>.  
 Sempre explorando novas tecnologias e construindo projetos para aprender e compartilhar conhecimento.</p>
 
 ---
@@ -25,12 +25,12 @@ Sempre explorando novas tecnologias e construindo projetos para aprender e compa
 <p align="center"><strong>Estatísticas do GitHub</strong></p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fodendobrancas&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fodendobrancas&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&label=Views:&color=gray"/></a></p>
+<p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=fodendobrancas&style=for-the-badge&label=Views:&color=blue"/></a></p>
 
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2F4F4F&section=footer"/></a>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00BFFF&section=footer"/></a>
